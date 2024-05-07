@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+.Titulo{
+    margin:10px;
+    text-align: center;
+    font-family: "Bungee Spice", sans-serif
+}
+.info-container{
+    display: flexbox;
+    flex-direction: column;
+}
+
+.img{
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: orange;
+    border-style: groove;
+}
+
+.Texto-Sobre-Mi{
+    margin: 20px;
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    color: aliceblue;
+}
+.Hola{
+    font-family: "Bungee Spice", sans-serif
+}

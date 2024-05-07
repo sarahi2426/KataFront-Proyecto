@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:20px;
+} 
+.dot-status{
+    height: 0.5rem;
+    width: 0.5rem;
+    margin-right: 0.3rem;
+    border-radius: 50%;
+
+    align-self: center;
+   
+}
+
+.maxki{
+    
+    margin: 0;
+    
+    align-self: center;
+}
+
+.card-image-saze{
+    width:100%;
+    height: 550px;
+}

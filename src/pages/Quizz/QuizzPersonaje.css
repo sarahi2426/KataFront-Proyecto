@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background-color: #dfeeef;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+  .container-Quiz {
+    background-color: black;
+    width: 60%;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+    font-family: "Josefin Sans", sans-serif;
+    color: aliceblue;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  .description {
+    padding: 0;
+    margin-top: 10px;
+    color: #000;
+    text-align: center;
+    border-bottom: #fff dashed 1px;
+  }
+  
+  section {
+    margin: 20px;
+    min-height: 410px;
+  }
+  
+ p{
+  margin: 10px;
+  padding-top: 20px;
+ }
+  h3 {
+    color: #000;
+  }
+  
+  .sent-info {
+    cursor: pointer;
+    margin-top: 30px;
+  }
+
